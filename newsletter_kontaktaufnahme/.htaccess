@@ -1,0 +1,6 @@
+<FilesMatch "backend.php">
+ AuthName "Member Only"
+ AuthType Basic
+ AuthUserFile  /home/mtde/public_html/my/postalcard_confirmation/.htpasswd
+ require valid-user
+ </FilesMatch>

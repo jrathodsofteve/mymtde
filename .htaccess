@@ -1,0 +1,10 @@
+Options All -Indexes
+
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^http(s)?://(my\.)?medical-tribune.de [NC]
+RewriteRule \.(gif|JPG|jpg|jpeg|JPEG|png|PNG|pdf|PDF)$ - [NC,F,L]
+#RewriteRule \.(gif|JPG|jpg|jpeg|png|pdf|log)$ https://medical-tribune.de [R,L] 

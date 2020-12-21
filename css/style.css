@@ -1,0 +1,303 @@
+html {
+    height: initial;
+}
+
+body {
+    padding-top: 1rem;
+    min-height: initial;
+}
+
+.state-select {
+    margin-bottom: 0.15rem;
+}
+
+.datepicker table tr td span.focused,
+.datepicker table tr td span:hover,
+.datepicker table tr td.day.focused,
+.datepicker table tr td.day:hover {
+    background: #30A2B1;
+}
+
+.error {
+    border-color: red;
+}
+
+.alert {
+    padding: 8px 15px;
+    margin-bottom: 15px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+
+.alert-info {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
+
+.alert-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
+
+.info-row {
+    margin: 0 0 10px;
+}
+
+.button.delete {
+    background-color: #ce3232;
+}
+
+.button.delete:hover {
+    background-color: #a52020;
+}
+
+#deletedDiv {
+    display: none;
+}
+
+form[validated] :invalid, .error {
+    border: 1px solid red;
+}
+
+.edit-legend {
+    text-align: right;
+}
+
+.edit-legend legend {
+    padding-left: 1.25rem;
+    padding-right: 0;
+}
+
+.edit-legend + div {
+    clear: both;
+}
+
+#email-div {
+    width: auto;
+    overflow: hidden;
+}
+
+footer {
+    background-color: #0C2551;
+    padding: 1rem 0;
+}
+
+
+footer div.medium-3 {
+    text-align: center;
+}
+
+#profile_form {
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+#main-navigation {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 30;
+    width: 100%;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 14px;
+}
+
+#main-navigation .logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#main-navigation .main-bar, #main-navigation .sub-bar {
+    background-color: #0C2551;
+    padding-left: 188px;
+    padding-right: 15px;
+    height: 41px;
+    transition: all 0.5s;
+}
+
+#main-navigation .sub-bar {
+    background-color: #f3f3f3;
+}
+
+footer div.medium-3 * {
+    color: white;
+}
+
+form.padded {
+    padding: 0 15px;
+}
+
+#change_email_button_div {
+    float: right;
+    text-align: right;
+    margin-left: 4px;
+}
+#cancel_pw_change_button {
+    float: left;
+}
+
+#save_pw_change_button {
+    float: right;
+}
+
+.button[disabled], .button[disabled]:focus, .button[disabled]:active, .button[disabled]:hover {
+    background-color: rgb(160, 160, 160);
+}
+
+a.underline {
+    text-decoration: underline;
+}
+
+fieldset.radiod {
+    border: none;
+    margin: 0.3rem 0 0.5rem;
+}
+
+input[type=file] {
+    margin: 0.6rem 0 1rem;
+}
+
+input.button.padded {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.float-btn {
+    float: right;
+    margin-left: 4px;
+}
+
+.padded-span {
+    margin: -0.1rem 0 1rem;
+}
+
+span.separator {
+    margin: 0 10px;
+    color: #e4e4e4;
+    font-weight: normal;
+}
+
+div.padded {
+    padding: 0.5rem 0 1rem;
+}
+
+#customers-div {
+    margin-bottom: 100px;
+}
+
+#customers-list {
+    margin-bottom: 1.5rem;
+}
+
+#customers-list .row {
+    cursor: pointer;
+    padding: 0.35rem;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+#customers-list .row.no-results {
+    cursor: default;
+}
+
+#customers-list .row:last-child {
+    border-bottom: none;
+}
+
+#customers-list .row:not(.no-results):hover {
+    background-color: #f4f4f4;
+}
+
+#pageNr {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.debug {
+    display: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+#prevBtn, #nextBtn {
+    display: inline;
+    margin: 0;
+}
+
+.icon-button {
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 3px;
+    transition: initial;
+}
+
+.icon-button:hover {
+    background-color: white;
+    border-color: #ccc;
+}
+
+#result-count {
+    color: #888;
+}
+
+#cancel-edit-div:not([hidden]) {
+    display: inline-block;
+}
+
+#admin_profile_form, #new_pw_div {
+    display: none;
+}
+
+#toggle-search-button i {
+    margin-left: 10px;
+}
+
+#search-div {
+    padding-left: 15px;
+}
+
+#search-div .logic-row > div, #search-div .search-row > div {
+    margin-left: -15px;
+}
+
+#search-div .indent-btn {
+    padding: 0.6875rem 0.5rem 0.625rem;
+    float: left;
+    margin-right: 15px;
+}
+
+#search-div .indent-btn:first-of-type {
+    margin-right: 3px;
+}
+
+#search-div .indent-1 {
+    padding-left: 50px;
+}
+
+#search-div .indent-2 {
+    padding-left: 100px;
+}
+
+#search-div .indent-3 {
+    padding-left: 150px;
+}
+
+#search-div .indent-4 {
+    padding-left: 200px;
+}
+
+#search-div .indent-5 {
+    padding-left: 250px;
+}

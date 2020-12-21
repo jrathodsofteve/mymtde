@@ -1,0 +1,1461 @@
+17-08-2020 : rafael.italia97@gmail.com,Array
+(
+    [CONTENT_LENGTH] => 2424
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundarybfgcQQTgEfGFD52g
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-DE,de;q=0.9,it-IT;q=0.8,it;q=0.7,en-AU;q=0.6,en;q=0.5,es-ES;q=0.4,es;q=0.3,en-US;q=0.2
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => consentUUID=03527431-9cc9-42c3-bfde-5911b2e601af; _ga=GA1.2.1993727439.1597386876; euconsent-v2=CO4HewMO4HewMAGABCENAzCgAP_AAH_AAACYGPtX_T9fb2_j-_Z999tkeY1f97y3t-wzhgeMs-8NyZeX_B4Wr2MyvBX4JiQKGRgEunLBAQdlHGFcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-f-334GLEEGAAKAQBCWAAIEihEIQAIQxAAIAACghEAgEkACRQALA4COUACABAYAAQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBAMGQEgAVABDACYAFwARwApABlgDUAHEAPwAjABvAExAJsAU2AtEBgQDDxEBwAFQAVgAuACGAESAKQAVwAyABlgDUAGyAOIAfgBGADWAHyAQ2Ai8BIgCbAE7AKHAUiAuQBgQDCQGHgMWEgAgAHADnCQQAAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBXADDAGQAMsAagA2QBxAD2AHxAPsA_QCMAF-AMIAYoA1gBtADcAG8APQAfIBDYCKgEXgJEATEAmUBNgCdgFIgKbAVgAsUBbAC5AF3gMCAYMAwkBhoDDw0B4AFQAVgAuACGAESAKQAZAAywBpADUAGyAOIAfgBGADWAG8APkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPAYsAxgOABAAcKgJgAqACGAEwALgAjgBSADLAGoAOIAfgBGADeAJBATEAmwBTYC5AGBAMPHQPwAFgAVAAuABkADgAIAARAAxAB9AEMARAAmQBVAFYALAAXAAxABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAe0A-wD8AIwAWIAuYBeQC_AGEAMUAbiA6YDqAHoAQ2AiIBF4CQQEiAJsATtApoCmwFWALFgWwBbIC4AFyALtAXeAwkBhoDDwGJAMYAY8QgRAALAAyACIAGIAQwAmABVAC4AG8APQAjgBSADUAG-AOIAfgBGAC_AGEAMUAdQA9ACQQEiAJsgU0BTYCxQFowLYAtoBcAC5AF2gMPAYkSgOAAIAAWABcADIAHAAYgBEACYAFUALgAYgA2gCGgEQARMApAClAGkANkAfgBGADFAG4AOoAi8BIgCbAFigLtAYeUgWAALAAqABcADIAHAAQAAxgCGAIgATAApABVACwAFwAMQAcwBDACIgFGAUsA0QDSAGyAOKAfYB-AEYALyAYQA2gBuADqAHoAReAkQBNgCdoFNAU2ArYBYoC2AFwALkAXaAw0Bh4DEgGMFQAIAPg.YAAAAAAAAAAA; _gid=GA1.2.1865111277.1597630590; PHPSESSID=p1q8eitrncn3i06fvg1tgosm15
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_DEST] => iframe
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 8.0.0; AUM-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 93.44.189.168
+    [REMOTE_PORT] => 11493
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => Xznpt9p1ceOii799HRF22gAAAJg
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597630903.9111
+    [REQUEST_TIME] => 1597630903
+)
+
+17-08-2020 : claudia.weiskirchen@lvr.de,Array
+(
+    [CONTENT_LENGTH] => 2763
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundary0imTiCdVMEIfCYg2
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.2127596523.1597639984; _gid=GA1.2.734801594.1597639984; consentUUID=58f69311-29fb-4458-9f45-d3735bfb4048; euconsent-v2=CO4RIP8O4RIP8AGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA; PHPSESSID=adnj0p1tk6lm4etr9q2cdf1j10
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_DEST] => iframe
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 194.149.241.3
+    [REMOTE_PORT] => 10413
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzoOOdp1ceOii799HRGBogAAAJc
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597640249.9113
+    [REQUEST_TIME] => 1597640249
+)
+
+17-08-2020 : wiesnerc@web.de,Array
+(
+    [CONTENT_LENGTH] => 3025
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundary6qVrRgjcHkhYPhnu
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-de
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => PHPSESSID=h8a1oqpbshvh93glqpchp9leq3; _ga=GA1.2.1352578449.1597648840; _gid=GA1.2.385390189.1597648840; consentUUID=0542737e-7e89-45e0-8128-9f0f5ad5d26b; euconsent-v2=CO4Rd3tO4Rd3tAGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/604.1
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 95.91.232.236
+    [REMOTE_PORT] => 40367
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzoxSvtoIOnIUUcP6dXqygAAAUc
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597649226.2667
+    [REQUEST_TIME] => 1597649226
+)
+
+17-08-2020 : jowtupfmqtxztdfxyh@awdrt.org,Array
+(
+    [CONTENT_LENGTH] => 2879
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundary3YzvXFlKYzio2V0B
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => PHPSESSID=7r9ghr69kagoskm35p1g6t4782
+    [HTTP_DNT] => 1
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_DEST] => iframe
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 62.216.202.45
+    [REMOTE_PORT] => 17507
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => Xzo0PqLgjrejZwRkmzw6SAAAAAs
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597649982.6118
+    [REQUEST_TIME] => 1597649982
+)
+
+17-08-2020 : jakob.obereigner@gmx.at,Array
+(
+    [CONTENT_LENGTH] => 2208
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundarytwcmKAUbnNs8p8kq
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.1972925212.1597650363; _gid=GA1.2.2002157726.1597650363; consentUUID=e9106c2a-9262-4271-ab4c-3e791253038c; euconsent-v2=CO4Rhl4O4Rhl4AGABCENAzCgAP_AAH_AAACYGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA; PHPSESSID=uquko7n106tuereno53t8kvf50
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_DEST] => iframe
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 89.144.195.253
+    [REMOTE_PORT] => 47825
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => Xzo2FqLgjrejZwRkmzw7@wAAAA8
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597650454.6918
+    [REQUEST_TIME] => 1597650454
+)
+
+17-08-2020 : j.obereigner@gmx.at,Array
+(
+    [CONTENT_LENGTH] => 2114
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryTtr0tUx4s6yZBO8Z
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.1972925212.1597650363; _gid=GA1.2.2002157726.1597650363; consentUUID=e9106c2a-9262-4271-ab4c-3e791253038c; euconsent-v2=CO4Rhl4O4Rhl4AGABCENAzCgAP_AAH_AAACYGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA; PHPSESSID=uquko7n106tuereno53t8kvf50
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_DEST] => iframe
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 89.144.195.253
+    [REMOTE_PORT] => 47848
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => Xzo3-olUQQIQUrjiamXpUgAAAM0
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597650942.969
+    [REQUEST_TIME] => 1597650942
+)
+
+17-08-2020 : etulper@aol.com,Array
+(
+    [CONTENT_LENGTH] => 4601
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundarylGmPdp0AesJ983es
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-DE,de;q=0.9,ru-RU;q=0.8,ru;q=0.7,en-US;q=0.6,en;q=0.5
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.2064660992.1597653961; _gid=GA1.2.681189592.1597653961; consentUUID=498530fa-5c95-4a92-94ae-d9e2f8d16421; euconsent-v2=CO4RqX7O4RqX7AGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA; PHPSESSID=8gqpcgctenuj83gukc7jchrpq2
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_MODE] => nested-navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-A320FL) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Mobile Safari/537.36
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 80.187.106.103
+    [REMOTE_PORT] => 20834
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzpH2AcaCtntLVDijsQ4OgAAARc
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597655000.7823
+    [REQUEST_TIME] => 1597655000
+)
+
+17-08-2020 : mt-cme@dr-schick.com,Array
+(
+    [CONTENT_LENGTH] => 3875
+    [CONTENT_TYPE] => multipart/form-data; boundary=---------------------------29855012588040528153912919421
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-DE,en-US;q=0.7,en;q=0.3
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => PHPSESSID=r5eq6hjlt4tfpq7fuptqnssj65
+    [HTTP_DNT] => 1
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 91.7.28.175
+    [REMOTE_PORT] => 64403
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzpSiNOzvqoUoOfUmO7gzQAAAMY
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597657736.2189
+    [REQUEST_TIME] => 1597657736
+)
+
+17-08-2020 : Jennifer.Rasch@novartis.com,Array
+(
+    [CONTENT_LENGTH] => 2837
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryQuBpo7ghX1TbwIVY
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.1137852698.1597659290; _gid=GA1.2.1750446949.1597659290; consentUUID=d7bdf9b3-e32f-487f-92d6-d82fcc740b35; euconsent-v2=CO4R3ZmO4R3ZmAGABBENAzCgAAAAAH_AAAQ4GRkEGAAKAQBCWAAIEghEIAAIQxIAAAACggEAoEkACRQALI4CKUACABAYAIQIAQAAoAIBAAIAAEFAQAgAQIAAARAIAAQACAEAACAAAFABICAAACgEhAARABCAAQQAAQcggQEQABACgZGQQYAAoBAEJYAAgSKEQgAAhDEgAAAAKCEQCgSQAJFAAsjgI5QAIAEBgAhAgBACCgAgEAAgAASUBACABAgEABEAgABAAMAQAAIAAQWAEgIAAAKgSEABEAEoEBBAABByCBAVAEEAKAAA.YAAAAAAAAAAA; PHPSESSID=icsibhs2ek072o0g2slhq7nl76
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_DEST] => iframe
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 160.62.7.250
+    [REMOTE_PORT] => 48833
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzpZZQcaCtntLVDijsRG@wAAAQY
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597659493.6359
+    [REQUEST_TIME] => 1597659493
+)
+
+17-08-2020 : info@drkoob.de,Array
+(
+    [CONTENT_LENGTH] => 3550
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryRMAXFZwTSMrqqymA
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_ACCEPT_ENCODING] => br, gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => de-de
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.2140884452.1597234763; _gid=GA1.2.1684114169.1597658743; consentUUID=3239e8b8-3285-40b7-9e51-4effc2273481; PHPSESSID=c5dcul1f6gekbh335boolq7ag0; euconsent-v2=CO4Bq8GO4Bq8GAGABCENAyCgAP_AAH_AAAYgGPtV_T9fb2vj-_Z999tkeY1f97y3t-wjhgeMs-8NyZeX_B4Wr2MyvBX4JiQKGRgEunLBAQdlHGFcTQgAwIkFiTLMYk2MizNKJrJEilMbM2dYGG1Pn8XTuZCY70-sP__zv3-f-334GLEEGAAKAQBCWAAIEihEIAAIQxAAAAACghEAgEkACRQALA4COUACABAYAAQIAQAgoAIBAAIAAElAQAgAQIBAARAIAAQADAEAACAAEFgBICAAACoEhAARABKBAQQAAQcggQFQBBAMGQEgAVABDACYAFwARwApABlgDUAHEAPwAjABvAExAJsAU2AtEBgQDDxEBsAFQAVgAuACGAESAKQAVwAyABlgDUAGyAOIAfgBGADWAHyAQ2Ai8BIgCbAE7AKHAUiAuQBgQDCQGHiQAQADgBzhIIAACAAFgAVAAyABwADwAIAARAAqAB4AD6AIYAiABMgCqAKwAWAAuABvADmAHoAQ0AiACJAEsAJoAUoArgBhgDIAGWANQAbIA4gB7AD4gH2AfoBGAC_AGEAMUAawA2gBuADeAHoAPkAhsBFQCLwEiAJiATKAmwBOwCkQFNgKwAWKAtgBcgC7wGBAMGAYSAw0Bh4aA6ACoAKwAXABDACJAFIAMgAZYA0gBqADZAHEAPwAjABrADeAHyAQ2Ai8BIgCbAE7AKHAUiAuQBgQDCQGHgMYDgAQAHCoCYAKgAhgBMAC4AI4AUgAywBqADiAH4ARgA3gCQQExAJsAU2AuQBgQDDx0D8ABYAFQALgAZAA4ACAAEQAMQAfQBDAEQAJkAVQBWACwAFwAMQAbwA5gB6AEMAIgASwAmABNQCjAKUAZEA0QDSAGoANmAb4BwADiAHtAPsA_ACMAFiALmAXkAvwBhADFAG4gOmA6gB6AENgIiAReAkEBIgCbAE7QKaApsBVgCxYFsAWyAuABcgC7QF3gMJAYaAw8BiQDGAGPEIEQACwAMgAiABiAEMAJgAVQAuABvAD0AI4AUgA1ABvgDiAH4ARgAvwBhADFAHUAPQAkEBIgCbIFNAU2AsUBaMC2ALaAXAAuQBdoDDwGJEoDgACAAFgAXAAyABwAGIARAAmABVAC4AGIANoAhoBEAETAKQApQBpADZAH4ARgAxQBuADqAIvASIAmwBYoC7QGHlIFgACwAKgAXAAyABwAEAAMYAhgCIAEwAKQAVQAsABcADEAHMAQwAiIBRgFLANEA0gBsgDigH2AfgBGAC8gGEANoAbgA6gB6AEXgJEATYAnaBTQFNgK2AWKAtgBcAC5AF2gMNAYeAxIBjBUACAD4AA.YAAAAAAAAAAA
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 217.14.227.219
+    [REMOTE_PORT] => 50854
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzpZ7C5pW0mREnN0ZYm2agAAAFA
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597659628.3786
+    [REQUEST_TIME] => 1597659628
+)
+
+17-08-2020 : g.fondis@gmx.de,Array
+(
+    [CONTENT_LENGTH] => 2901
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryPprbZjcBcY7QnIuV
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de,de-DE;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.467258077.1597660012; _gid=GA1.2.716375573.1597660012; consentUUID=c655d178-45ef-438c-8d44-973e945099d9; euconsent-v2=CO4R5JUO4R5JUAGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA; PHPSESSID=oolstusudbhqi9l7i5qj38vcq5
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_DEST] => iframe
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.59
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 91.52.1.210
+    [REMOTE_PORT] => 64994
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzpdDsQsZEOiRkX@DRW8WQAAAIM
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597660430.4514
+    [REQUEST_TIME] => 1597660430
+)
+
+17-08-2020 : o.a@gmx.eu,Array
+(
+    [CONTENT_LENGTH] => 3296
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryD2Ifejbs2kXplh5W
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de,de-DE;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.223488352.1559283350; _gid=GA1.2.156369351.1597663203; consentUUID=8b9ea750-f8af-427d-9e2e-e967dfe2fa28; _gac_UA-173639924-1=1.1597663206.EAIaIQobChMIm4SJlI-i6wIVkeR3Ch01NwasEAAYASAAEgJS8vD_BwE; euconsent-v2=CO4SA7mO4SA7mAGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA; _gac_UA-1204464-17=1.1597663207.EAIaIQobChMIm4SJlI-i6wIVkeR3Ch01NwasEAAYASAAEgJS8vD_BwE; PHPSESSID=sbse9ns41kftarbo7uv511dag4
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_DEST] => iframe
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edg/81.0.416.88
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 87.163.250.198
+    [REMOTE_PORT] => 52640
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzponftoIOnIUUcP6dUX6QAAAUQ
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597663389.9279
+    [REQUEST_TIME] => 1597663389
+)
+
+17-08-2020 : christoph.mielke@ovesco.com,Array
+(
+    [CONTENT_LENGTH] => 2314
+    [CONTENT_TYPE] => multipart/form-data; boundary=---------------------------10165150716462
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de,en-US;q=0.7,en;q=0.3
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => PHPSESSID=ji91mactbccje4njf23v6cdfh5
+    [HTTP_DNT] => 1
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 217.93.172.143
+    [REMOTE_PORT] => 53139
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => Xzpr5QcaCtntLVDijsRW3wAAAQs
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597664229.6102
+    [REQUEST_TIME] => 1597664229
+)
+
+17-08-2020 : mikescho@hotmail.com,Array
+(
+    [CONTENT_LENGTH] => 3736
+    [CONTENT_TYPE] => multipart/form-data; boundary=---------------------------379261114723186190913465688822
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de,en-US;q=0.7,en;q=0.3
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.630916131.1597668163; _gid=GA1.2.1810070847.1597668163; consentUUID=59fb5031-8f2a-4775-9f3a-bcfd337d4c98; euconsent-v2=CO4SNCyO4SNCyAGABCENAzCgAP_AAH_AAACYGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA; PHPSESSID=a6jiij4bvoa4h4r388ilurfbb6
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 80.110.12.97
+    [REMOTE_PORT] => 55488
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => Xzp9BC5pW0mREnN0ZYnVNQAAAEM
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597668612.6313
+    [REQUEST_TIME] => 1597668612
+)
+
+17-08-2020 : hauschild641@gmail.com,Array
+(
+    [CONTENT_LENGTH] => 2409
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryFKR89zWw2FM1Bagt
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.703337241.1597668290; _gid=GA1.2.428488071.1597668290; consentUUID=a021bafd-f22d-4d8a-be5e-bde0789e9c23; euconsent-v2=CO4SNW_O4SNW_AGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA; PHPSESSID=eovai3o149bv43ncfm4d1g3u11
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_DEST] => iframe
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 7.0; SM-G920F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 2.200.25.255
+    [REMOTE_PORT] => 39361
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => Xzp@YdOzvqoUoOfUmO4FNgAAAMs
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597668962.0058
+    [REQUEST_TIME] => 1597668962
+)
+
+17-08-2020 : frank.hengl@gmail.com,Array
+(
+    [CONTENT_LENGTH] => 3181
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryRHwZzEdpMhzTrEbv
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de,de-DE;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.206050061.1597670965; _gid=GA1.2.714399674.1597670965; consentUUID=63ba196b-0fdd-487d-bb89-b1c2fc524564; euconsent-v2=CO4ST4jO4ST4jAGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA; PHPSESSID=m99b3bnlogkcdipukhlffpuci4
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_DEST] => iframe
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.59
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 80.208.236.178
+    [REMOTE_PORT] => 20229
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzqHP9OzvqoUoOfUmO4MTQAAAMU
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597671231.0949
+    [REQUEST_TIME] => 1597671231
+)
+
+17-08-2020 : anna.euteneuer@uni.koeln.de,Array
+(
+    [CONTENT_LENGTH] => 3543
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryEKaVKBECS1MOG5ts
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-de
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.2055794865.1597301774; _gid=GA1.2.1232946833.1597673433; consentUUID=29aeacdb-39da-4eed-9b1a-0a7c3061c424; PHPSESSID=obcehtotse3s9scpir7lmido22; euconsent-v2=CO4EOi1O4EOi1AGABCENAyCgAP_AAH_AAAYgGPtX_T9fb2_j-_Z999tkeY1f97y3t-wzhgeMs-8NyZeX_B4Wr2MyvBX4JiQKGRgEunLBAQdlHGFcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-f-334GLEEGAAKAQBCWAAIEihEIQAIQxAAIAACghEAgEkACRQALA4COUACABAYAAQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBAMGQEgAVABDACYAFwARwApABlgDUAHEAPwAjABvAExAJsAU2AtEBgQDDxEBsAFQAVgAuACGAESAKQAVwAyABlgDUAGyAOIAfgBGADWAHyAQ2Ai8BIgCbAE7AKHAUiAuQBgQDCQGHiQAQADgBzhIIAACAAFgAVAAyABwADwAIAARAAqAB4AD6AIYAiABMgCqAKwAWAAuABvADmAHoAQ0AiACJAEsAJoAUoArgBhgDIAGWANQAbIA4gB7AD4gH2AfoBGAC_AGEAMUAawA2gBuADeAHoAPkAhsBFQCLwEiAJiATKAmwBOwCkQFNgKwAWKAtgBcgC7wGBAMGAYSAw0Bh4aA6ACoAKwAXABDACJAFIAMgAZYA0gBqADZAHEAPwAjABrADeAHyAQ2Ai8BIgCbAE7AKHAUiAuQBgQDCQGHgMYDgAQAHCoCYAKgAhgBMAC4AI4AUgAywBqADiAH4ARgA3gCQQExAJsAU2AuQBgQDDx0D8ABYAFQALgAZAA4ACAAEQAMQAfQBDAEQAJkAVQBWACwAFwAMQAbwA5gB6AEMAIgASwAmABNQCjAKUAZEA0QDSAGoANmAb4BwADiAHtAPsA_ACMAFiALmAXkAvwBhADFAG4gOmA6gB6AENgIiAReAkEBIgCbAE7QKaApsBVgCxYFsAWyAuABcgC7QF3gMJAYaAw8BiQDGAGPEIEQACwAMgAiABiAEMAJgAVQAuABvAD0AI4AUgA1ABvgDiAH4ARgAvwBhADFAHUAPQAkEBIgCbIFNAU2AsUBaMC2ALaAXAAuQBdoDDwGJEoDgACAAFgAXAAyABwAGIARAAmABVAC4AGIANoAhoBEAETAKQApQBpADZAH4ARgAxQBuADqAIvASIAmwBYoC7QGHlIFgACwAKgAXAAyABwAEAAMYAhgCIAEwAKQAVQAsABcADEAHMAQwAiIBRgFLANEA0gBsgDigH2AfgBGAC8gGEANoAbgA6gB6AEXgJEATYAnaBTQFNgK2AWKAtgBcAC5AF2gMNAYeAxIBjBUACAD4AA.YAAAAAAAAAAA
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 134.95.20.155
+    [REMOTE_PORT] => 51934
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzqYdNOzvqoUoOfUmO4YlwAAANI
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597675636.2348
+    [REQUEST_TIME] => 1597675636
+)
+
+17-08-2020 : janvommmeer@gmail.com,Array
+(
+    [CONTENT_LENGTH] => 3700
+    [CONTENT_TYPE] => multipart/form-data; boundary=---------------------------39526139701230420825263239883
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de,en-US;q=0.7,en;q=0.3
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.1796593555.1597677331; _gid=GA1.2.1358964575.1597677331; consentUUID=a7fb8e07-fe7d-4dce-8cd7-db8a84a06767; euconsent-v2=CO4Sje1O4Sje1AGABBENAzCgAAAAAH_AAAYgGRkEGAAKAQBCWAAIEghEIAAIQxIAAAACggEAoEkACRQALI4CKUACABAYAIQIAQAAoAIBAAIAAEFAQAgAQIAAARAIAAQACAEAACAAAFABICAAACgEhAARABCAAQQAAQcggQEQABACgZGQQYAAoBAEJYAAgSKEQgAAhDEgAAAAKCEQCgSQAJFAAsjgI5QAIAEBgAhAgBACCgAgEAAgAASUBACABAgEABEAgABAAMAQAAIAAQWAEgIAAAKgSEABEAEoEBBAABByCBAVAEEAKAAA.YAAAAAAAAAAA; PHPSESSID=5kndf8t5h167g95i383fuc9io5
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 134.3.109.207
+    [REMOTE_PORT] => 59328
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => Xzqgj38wkSXIkTDLOc-gywAAAVQ
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597677711.3293
+    [REQUEST_TIME] => 1597677711
+)
+
+17-08-2020 : k.jalass@hotmail.de,Array
+(
+    [CONTENT_LENGTH] => 3210
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryrXtNlzdET8l3dJj9
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-de
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => PHPSESSID=ce0kpp09f6o1jebnn0tthtf2t5; _ga=GA1.2.326377714.1597677755; _gid=GA1.2.1552015557.1597677755; consentUUID=234114d8-7f2e-45f7-a2e0-b3c87945ee01; euconsent-v2=CO4SkdpO4SkdpAGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 84.162.95.66
+    [REMOTE_PORT] => 57200
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => Xzqh4oR5FDydpOlYnzEmiQAAAI8
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597678051.0594
+    [REQUEST_TIME] => 1597678051
+)
+
+17-08-2020 : bilal1188@hotmail.com,Array
+(
+    [CONTENT_LENGTH] => 2209
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryilSof1qjLQWtBTfN
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-at
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _gid=GA1.2.1693966897.1597681407; PHPSESSID=k46bqec52knesc3sta6436t0r5; _ga=GA1.2.55864232.1597681407; consentUUID=f100caa2-3a30-42cf-bfcc-ebaa018c5b14; euconsent-v2=CO4StYVO4StYVAGABCENAzCgAP_AAH_AAACYGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Mobile/15E148 Safari/604.1
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 80.109.233.141
+    [REMOTE_PORT] => 61097
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => Xzqvok3VMNjq9QV5ro5nQgAAAQA
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597681570.7655
+    [REQUEST_TIME] => 1597681570
+)
+
+17-08-2020 : Hjalass@outlook.de,Array
+(
+    [CONTENT_LENGTH] => 3200
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryCsT04vFjTiQfU8Z2
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-de
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.326377714.1597677755; _gid=GA1.2.1552015557.1597677755; consentUUID=234114d8-7f2e-45f7-a2e0-b3c87945ee01; PHPSESSID=ce0kpp09f6o1jebnn0tthtf2t5; euconsent-v2=CO4SkdpO4SkdpAGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 84.162.95.66
+    [REMOTE_PORT] => 57322
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => Xzqv2E3VMNjq9QV5ro5nYgAAARQ
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597681624.2568
+    [REQUEST_TIME] => 1597681624
+)
+
+17-08-2020 : gaabon@gmx.de,Array
+(
+    [CONTENT_LENGTH] => 3444
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryEmFPtCTYUvQj9nnS
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.153636452.1596715122; _gid=GA1.2.1382519914.1597678363; consentUUID=090f0b71-f28a-42c4-8a82-b427562fd29c; euconsent-v2=CO4Sl8jO4Sl8jAGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA; PHPSESSID=bn19e69g4u747d1gphv2n2a3g1
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SAVE_DATA] => on
+    [HTTP_SEC_FETCH_DEST] => iframe
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 109.41.67.228
+    [REMOTE_PORT] => 21973
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => Xzq0VL0zBjOMDZE7Ev5mSQAAAAA
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597682772.2091
+    [REQUEST_TIME] => 1597682772
+)
+
+17-08-2020 : 4130rec@gmail.com,Array
+(
+    [CONTENT_LENGTH] => 2333
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryIbKSAF1BhPUZjund
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => consentUUID=d836e421-11b1-40fa-87ab-87b8e80d6277; _ga=GA1.2.1331548249.1597663497; _gid=GA1.2.201459448.1597663497; euconsent-v2=CO4SBpvO4SBpvAGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA; PHPSESSID=7sn5v8kbovucb0oqt03j0r1mf7
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_DEST] => iframe
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 10; SNE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 91.34.236.114
+    [REMOTE_PORT] => 51536
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => Xzq2VAx6qhguYGgkVqmfoQAAAMY
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597683284.5337
+    [REQUEST_TIME] => 1597683284
+)
+
+17-08-2020 : khherdrich@gmail.com,Array
+(
+    [CONTENT_LENGTH] => 3320
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryECtVV80ZcopbUtAA
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.1291589902.1597686492; _gid=GA1.2.1895782878.1597686492; consentUUID=679a451a-501c-4908-a682-866bf0bb8b6f; euconsent-v2=CO4S5yyO4S5yyAGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA; PHPSESSID=u7vr7c694fotrvcqri9ggbura4
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_MODE] => nested-navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-T515) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Safari/537.36
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 91.13.242.242
+    [REMOTE_PORT] => 57970
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzrFDk3VMNjq9QV5ro51QQAAARg
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597687054.1904
+    [REQUEST_TIME] => 1597687054
+)
+
+17-08-2020 : herdrichka@online.de,Array
+(
+    [CONTENT_LENGTH] => 3308
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryzWQdLPsHFtaNWGOY
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.1291589902.1597686492; _gid=GA1.2.1895782878.1597686492; consentUUID=679a451a-501c-4908-a682-866bf0bb8b6f; euconsent-v2=CO4S5yyO4S5yyAGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA; PHPSESSID=u7vr7c694fotrvcqri9ggbura4
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_MODE] => nested-navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-T515) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Safari/537.36
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 91.13.242.242
+    [REMOTE_PORT] => 58028
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzrGcAx6qhguYGgkVqmq6gAAAMI
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597687408.7779
+    [REQUEST_TIME] => 1597687408
+)
+
+17-08-2020 : drkhherdrich@online.de,Array
+(
+    [CONTENT_LENGTH] => 3208
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryKGy9ZgGNLuOtb0Wi
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.1291589902.1597686492; _gid=GA1.2.1895782878.1597686492; consentUUID=679a451a-501c-4908-a682-866bf0bb8b6f; euconsent-v2=CO4S5yyO4S5yyAGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA; PHPSESSID=u7vr7c694fotrvcqri9ggbura4
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_MODE] => nested-navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-T515) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Safari/537.36
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 91.13.242.242
+    [REMOTE_PORT] => 58106
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzrKT38wkSXIkTDLOc-@EgAAAUk
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597688399.9771
+    [REQUEST_TIME] => 1597688399
+)
+
+17-08-2020 : elmi.tr@t-online.de,Array
+(
+    [CONTENT_LENGTH] => 3004
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryCtkJLAizo3nbGLP9
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => consentUUID=b38c8067-7d4a-4201-835a-1fc7c846584b; _ga=GA1.2.1829493961.1597689930; _gid=GA1.2.741042760.1597689930; euconsent-v2=CO4TCL5O4TCL5AGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA; PHPSESSID=4363bojkub8eha4pqofq5fsbn3
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_DEST] => iframe
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 217.251.51.153
+    [REMOTE_PORT] => 54551
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzrSSE3VMNjq9QV5ro5@0QAAAQY
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597690440.7438
+    [REQUEST_TIME] => 1597690440
+)
+
+17-08-2020 : skrobekmartyna@gmail.com,Array
+(
+    [CONTENT_LENGTH] => 3238
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryBA1NSgmGYdXkunhr
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => pl-PL,pl;q=0.9,de-DE;q=0.8,de;q=0.7,en-US;q=0.6,en;q=0.5
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.792147262.1597441665; consentUUID=85080774-7186-48e8-a35f-18ae50c8bc33; euconsent-v2=CO4JkErO4JkErAGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA; _gac_UA-173639924-1=1.1597504012.CjwKCAjwj975BRBUEiwA4whRB2UcsNCaFB_uogVJzAjmPsXoq9OzUKOq2KT02Kntild91AyMrnnp4xoCnqYQAvD_BwE; _gac_UA-1204464-17=1.1597504012.CjwKCAjwj975BRBUEiwA4whRB2UcsNCaFB_uogVJzAjmPsXoq9OzUKOq2KT02Kntild91AyMrnnp4xoCnqYQAvD_BwE; _gid=GA1.2.1233069773.1597689994; PHPSESSID=i604nn9510gv1l1dbmfvms30u0
+    [HTTP_DNT] => 1
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_MODE] => nested-navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-A202F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.3945.136 Mobile Safari/537.36
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 141.46.241.246
+    [REMOTE_PORT] => 45772
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzrVAk3VMNjq9QV5ro6AxQAAAQM
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597691138.6521
+    [REQUEST_TIME] => 1597691138
+)
+
+17-08-2020 : j.friedlbinder@posteo.de,Array
+(
+    [CONTENT_LENGTH] => 3182
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundary9oX5FgdsDsyyQDv5
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-de
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => PHPSESSID=gv56l9o5tl38qq3b24f9hm4r06; _ga=GA1.2.1375684594.1597691376; _gid=GA1.2.466058879.1597691376; consentUUID=2ceddc74-7cae-45a1-a4e9-8c276bc27964; euconsent-v2=CO4TFt1O4TFt1AGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 89.15.236.133
+    [REMOTE_PORT] => 14548
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzrX2L0zBjOMDZE7Ev5-5gAAAAQ
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597691864.9771
+    [REQUEST_TIME] => 1597691864
+)
+
+17-08-2020 : cordula.strack@gmail.com,Array
+(
+    [CONTENT_LENGTH] => 3098
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryna4qkTg5SUgABXHe
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.407301879.1597695276; _gid=GA1.2.460851476.1597695276; consentUUID=0c2b8261-6797-4687-b2a7-1d665c94ea46; euconsent-v2=CO4TPUhO4TPUhAGABBENAzCgAAAAAH_AAAYgGRkEGAAKAQBCWAAIEghEIAAIQxIAAAACggEAoEkACRQALI4CKUACABAYAIQIAQAAoAIBAAIAAEFAQAgAQIAAARAIAAQACAEAACAAAFABICAAACgEhAARABCAAQQAAQcggQEQABACgZGQQYAAoBAEJYAAgSKEQgAAhDEgAAAAKCEQCgSQAJFAAsjgI5QAIAEBgAhAgBACCgAgEAAgAASUBACABAgEABEAgABAAMAQAAIAAQWAEgIAAAKgSEABEAEoEBBAABByCBAVAEEAKAAA.YAAAAAAAAAAA; PHPSESSID=a6fbb4rckohk8ba5gag0jthej0
+    [HTTP_DNT] => 1
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_SEC_FETCH_DEST] => iframe
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 92.201.163.106
+    [REMOTE_PORT] => 50610
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzrnnIR5FDydpOlYnzFZ1AAAAIU
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597695900.0726
+    [REQUEST_TIME] => 1597695900
+)
+
+17-08-2020 : n.werlen@gmx.ch,Array
+(
+    [CONTENT_LENGTH] => 3167
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryCkZXBjHkscSangHi
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_ACCEPT_ENCODING] => br, gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => de-ch
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => PHPSESSID=iu9jpoai65bk38f5frd3ve3qa5; _ga=GA1.2.1513601203.1597698242; _gid=GA1.2.1777897797.1597698242; consentUUID=1062d518-2976-4efd-930c-1d3a4241f3b0; euconsent-v2=CO4TWe3O4TWe3AGABCENAzCgAP_AAH_AAAQ4GStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/register.php?mode=1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (iPad; CPU OS 12_4_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Mobile/15E148 Safari/604.1
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 94.78.33.210
+    [REMOTE_PORT] => 56743
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzrzbIR5FDydpOlYnzFhQQAAAJg
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597698924.1316
+    [REQUEST_TIME] => 1597698924
+)
+
+17-08-2020 : johannes.koelsch@googlemail.com,Array
+(
+    [CONTENT_LENGTH] => 2715
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundaryEtuP6SBhXS78F6yV
+    [CONTEXT_DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [CONTEXT_PREFIX] => 
+    [DOCUMENT_ROOT] => /home/mtde/public_html/my
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => de-de
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_COOKIE] => _ga=GA1.2.1801489358.1597698508; _gid=GA1.2.934564866.1597698508; consentUUID=3fb376b6-24a5-484e-8176-da47a42e1d7c; PHPSESSID=olqh121iotac3v72l3e5n5iiv0; euconsent-v2=CO4TXIHO4TXIHAGABCENAzCgAP_AAH_AAAYgGStX_T9fb2_j-_5999t0eY1f9_63t-wzhgeMs-8NyZ-X_J4Wr2MyvB34JqQKGRgEunLBAQdlHGHcTQgAwIkFiTLMYk2MizNKJrJEilMbc2dYGG1vn8XT_ZCY70-_P__7v3-_-33_4GRkEGAAKAQBCWAAIEihEIQAIQxIAIAACghEAgEkACRQALI4COUACABAYAIQIAQAgoAIBAAIAAElAQAgAQIBQARAIAAQADAEAACAAEFgBIiAAACoEhAARABKBAQUAAQcggQFQBBACgGDICgAKgAhgBMAC4AI4AUgAywBqADiAH4ARgApYBvAExAJsAU2AtEBgQDDwGRCIDYAKgArABcAEMAIkAUgAyABlgDUAGyAOIAfgBGAClgGsAPkAhsBF4CRAE2AJ2AUOApEBcgDAgGEgMPEgAgAHADnCQQwAEAALAAqABkADgAHgAQAAiABUADwAH0AQwBEACZAFUAVgAsABcADeAHMAPQAhoBEAESAJYATQApQBhgDIAGWANQAbIA4gB3gD2AHxAPsA_QCMAFLAL8AYQAxQBrADaAG4AN4AegA-QCGwEVAIvASIAmIBMoCbAE7AKRAU2ArABYoC2AFyALvAYEAwYBhIDDQGHgMiAZIGgPAAqACsAFwAQwAiQBSADIAGWANIAagA2QBxAD8AIwAUsA1gBvAD5AIbAReAkQBNgCdgFDgKRAXIAwIBhIDDwGMBwAIADhUBUAFQAQwAmABcAEcAKQAZYA1ABxAD8AIwAUsA3gCQQExAJsAU2AuQBgQDDwGRDoIQACwAKgAXAAyABwAEAAIgAYgA-gCGAIgATIAqgCsAFgALgAYgAzABvADmAHoAQwAiABLACYAE1AKMApQBkQDRANIAagA2YBvgHAAOIAd4A9oB9gH4ARgAsQBcwC8gF-AMIAYoA3EB0wHUAPQAhsBEQCLwEggJEATYAnaBTQFNgKsAWLAtgC2QFwALkAXaAu8BhIDDQGHgMSAYwAx4BkhCBMAAsADIAIgAYgBDACYAFUALgAZgA3gB6AEcAKQAagA3wBxADvAH4AQMAjABfgDCAGKAOoAegBIICRAE2QKaApsBYoC0YFsAW0AuABcgC7QGHgMSAZESgPgAIAAWABcADIAHAAYgBEACYAFUALgAYgAzABtAENAIgAiYBSAFKANIAbIA7wB-AEYAMUAbgA6gCLwEiAJsAWKAu0Bh4DIikDAABYAFQALgAZAA4ACAAGMAQwBEACYAFIAKoAWAAuABiADMAHMAQwAiIBRgFLANEA0gBsgDiAHfAPsA_ACMAF5AMIAbQA3AB1AD0AIvASIAmwBO0CmgKbAVsAsUBbAC4AFyALtAYaAw8BiQDGAGRAMkKgAQAfA.YAAAAAAAAAAA
+    [HTTP_HOST] => my.medical-tribune.de
+    [HTTP_ORIGIN] => https://my.medical-tribune.de
+    [HTTP_REFERER] => https://my.medical-tribune.de/
+    [HTTP_USER_AGENT] => Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1
+    [PATH] => /bin:/usr/bin
+    [QUERY_STRING] => mode=1
+    [REDIRECT_STATUS] => 200
+    [REMOTE_ADDR] => 88.130.55.129
+    [REMOTE_PORT] => 2995
+    [REQUEST_METHOD] => POST
+    [REQUEST_SCHEME] => https
+    [REQUEST_URI] => /register.php?mode=1
+    [SCRIPT_FILENAME] => /home/mtde/public_html/my/register.php
+    [SCRIPT_NAME] => /register.php
+    [SERVER_ADDR] => 46.232.181.187
+    [SERVER_ADMIN] => webmaster@my.medical-tribune.de
+    [SERVER_NAME] => my.medical-tribune.de
+    [SERVER_PORT] => 443
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SSL_TLS_SNI] => my.medical-tribune.de
+    [UNIQUE_ID] => XzrzxAx6qhguYGgkVqnNbgAAAMI
+    [PHP_SELF] => /register.php
+    [REQUEST_TIME_FLOAT] => 1597699012.5022
+    [REQUEST_TIME] => 1597699012
+)
+
