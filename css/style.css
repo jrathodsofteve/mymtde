@@ -301,3 +301,19 @@ a {
 #search-div .indent-5 {
     padding-left: 250px;
 }
+
+#advance-csv-div .indent-btn-left, #advance-csv-div .indent-btn-right {
+    display: none;
+}
+.csv-filter-outer .newsletter-checkboxes {
+    max-height: 150px;
+    overflow-y: auto;
+    border: 1px solid #dedede;
+    padding: 15px;
+}
+
+.csv-filter-outer {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 15px;
+}

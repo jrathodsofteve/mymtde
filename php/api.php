@@ -1262,21 +1262,38 @@ function parseCall($conn, &$response, $cmd) {
                 || (empty($_GET["operator"]) && count($_GET["filter-field"]) > 1))) {
                 return "Missing data";
             }
+
+            if($no_params == 1) {
+                // If no query params available, get stored filter data and search
+                $filterData = api('getFilter');
+                $filterData = json_decode($filterData['data']['filter'], true);
+                $_GET = $filterData;
+                $no_params = 0;
+            }
+
+            if(isset($_REQUEST['advance-csv']) && $_REQUEST['advance-csv'] == 1) {
+                // If advance csv export submitted
+                $_GET = $_REQUEST;
+                $no_params = 0;
+            }
+
             $filters = isset($_GET["filter-field"]) ? $_GET["filter-field"] : [];
             $operators = isset($_GET["operator"]) ? $_GET["operator"] : [];
             $compareBy = isset($_GET["compareBy"]) ? $_GET["compareBy"] : [];
             $compareValues = empty($_GET["compareValue"]) ? array_fill(0, count($compareBy), "") : $_GET["compareValue"];
             $indents = isset($_GET["indentations"]) ? $_GET["indentations"] : "";
 
-            if (!$no_params &&
-                  (!is_array($filters)   || !is_array($operators)
-                || !is_array($compareBy) || !is_array($compareValues) || !is_string($indents)
-                || count($filters) != count($operators) + 1
-                || count($filters) != count($compareBy)
-                || count($filters) != count($compareValues)
-                || count($filters) +  count($operators) != strlen($indents)))
-            {
-                return "Invalid data";
+            if(!isset($_REQUEST['advance-csv'])) {
+                if (!$no_params &&
+                    (!is_array($filters)   || !is_array($operators)
+                    || !is_array($compareBy) || !is_array($compareValues) || !is_string($indents)
+                    || count($filters) != count($operators) + 1
+                    || count($filters) != count($compareBy)
+                    || count($filters) != count($compareValues)
+                    || count($filters) +  count($operators) != strlen($indents)))
+                {
+                    return "Invalid data";
+                }
             }
 
             function append(&$sql, $conn, $id) {
@@ -1300,9 +1317,35 @@ function parseCall($conn, &$response, $cmd) {
                 } else {
                     $start = $end = "'";
                 }
-                $sql .=   $field_start . $conn->escape_string($_GET["filter-field"][$id]) . $field_end . " "
+
+                if(is_array($_GET['compareValue'][$id])) { // It means its multi select
+                    $compareValues = $_GET['compareValue'][$id];
+                    $compareValueCondition = '';
+                    $compareByOperator = $_GET["compareBy"][$id];
+                    
+                    for ($i=0; $i < sizeof($compareValues); $i++) {
+                        if($i == 0) {
+                            $compareValueCondition .= " ( ";    
+                        }
+                        if($compareValues[$i]) 
+                            $compareValueCondition .= " special_field " . $compareByOperator . " '" . $compareValues[$i] . "'";
+
+                        if($i == sizeof($compareValues) - 1) {
+                            $compareValueCondition .= " )";    
+                        } else {
+                            $compareValueCondition .= " OR";    
+                        }
+                    }
+                    $sql .= $compareValueCondition;
+
+                } else {
+                    $compareValue = $_GET["compareValue"][$id];
+
+                    $sql .=   $field_start . $conn->escape_string($_GET["filter-field"][$id]) . $field_end . " "
                         . $conn->escape_string($_GET["compareBy"][$id])
                         . " $start" . $conn->escape_string($_GET["compareValue"][$id]) . "$end";
+                }
+
             }
 
             global $valid_operators;
@@ -1311,24 +1354,38 @@ function parseCall($conn, &$response, $cmd) {
                     LEFT JOIN   oc_address          ON oc_customer.address_id           = oc_address.address_id
                     LEFT JOIN   oc_customer_infos   ON oc_customer.customer_id          = oc_customer_infos.customer_id
                     LEFT JOIN   oc_customer_group   ON oc_customer.customer_group_id    = oc_customer_group.customer_group_id";
+
+            // Checking if compareValue has multiselect array, then change array key
+            foreach ($_GET['compareValue'] as $key => $value) {
+                if(is_array($value)) {
+                    $newVal = array_values($_GET['compareValue']);
+                    $_GET['compareValue'] = $newVal;
+                }
+            }
+
             if (!$no_params) {
                 $sql .= " WHERE ";
                 for ($i = 0; $i < count($operators); ++$i) {
-                    if ($last_indent > $indents[2 * $i]) {
-                        return "Invalid Syntax";
+                    if($indents) {
+                        if ($last_indent > $indents[2 * $i]) {
+                            return "Invalid Syntax";
+                        }
+                        while ($last_indent < $indents[2 * $i]) {
+                            $sql .= "(";
+                            $last_indent++;
+                        }
                     }
-                    while ($last_indent < $indents[2 * $i]) {
-                        $sql .= "(";
-                        $last_indent++;
-                    }
+                    
                     if ($r = append($sql, $conn, $i)) return $r;
 
-                    if ($last_indent < $indents[2 * $i + 1]) {
-                        return "Invalid Syntax";
-                    }
-                    while ($last_indent > $indents[2 * $i + 1]) {
-                        $sql .= ")";
-                        $last_indent--;
+                    if($indents) {
+                        if ($last_indent < $indents[2 * $i + 1]) {
+                            return "Invalid Syntax";
+                        }
+                        while ($last_indent > $indents[2 * $i + 1]) {
+                            $sql .= ")";
+                            $last_indent--;
+                        }
                     }
                     if (!in_array($operators[$i], $valid_operators)) {
                         return "Invalid operator: " . $operators[$i];
@@ -1339,6 +1396,18 @@ function parseCall($conn, &$response, $cmd) {
                 while ($last_indent-- > 0) {
                     $sql .= ")";
                 }
+            }
+
+            if(isset($_GET['advance-csv']) && is_array($_GET['newsletter'])) {
+                // Checking if newsletter added, then add selected newsletter to array
+                $newsletterCondition = ($_REQUEST['newletterOperator'] ? $_REQUEST['newletterOperator'] : 'AND') . " (";
+                foreach ($_GET['newsletter'] as $key => $value) {
+                    print_r($key . " " . $value);
+                    $newsletterCondition .= $key . " " . ($_REQUEST['newsletterCompareBy'] ? $_REQUEST['newsletterCompareBy'] : ' = ') . " '" . $_REQUEST['newsletterCompareValue'] . "' OR ";
+                }
+                $newsletterCondition = rtrim($newsletterCondition, " OR");
+                $newsletterCondition .= " )";
+                $sql .= $newsletterCondition;
             }
 
             $sql .= " ORDER BY oc_customer.date_added DESC";
@@ -1389,11 +1458,6 @@ function parseCall($conn, &$response, $cmd) {
             $filterData['compareBy'] = $_GET['compareBy'];
             $filterData['compareValue'] = $_GET['compareValue'];
             $filterData['operator'] = $_GET['operator'];
-            // echo "<pre>";
-            // print_r($_REQUEST);
-            // print_r($filterData);
-            // echo "</pre>";
-            // exit;
             $filterEncodedData = json_encode($filterData);
             $sql = "UPDATE oc_customer_infos SET filter = '" . $filterEncodedData . "' WHERE customer_id=" . $loggedInUserId;
             $result = $conn->query($sql);

@@ -2,7 +2,7 @@ var scroll_pos = 0;
 
 $(function() {
     appendOptions(search_selects["newsletter"], $("#clone-search-div select[name='filter-field[]']"), "newsletter");
-
+    // appendOptions(search_selects["newsletter"], $("#advance-csv-div select[name='filter-field[]']"), "newsletter");
     $("[data-customer-id]").click(function(e) {
         if ($(e.target).is("a[href], .state-select")) {
             return;
@@ -59,7 +59,47 @@ $(function() {
             $i.removeClass("fa-angle-up").addClass("fa-angle-down");
         }
     });
+
+    var _newsletterCsvRows = $(".newsletter-rows").html();
+    $(".newsletter-rows").html('');
+    $(".add-news-letters").on("click", function() {
+        $(this).toggleClass("added");
+        if($(this).hasClass("added")) {
+            $(".newsletter-rows").html(_newsletterCsvRows);
+            $(this).text("- Newsletter")
+        } else {
+            $(".newsletter-rows").html('');
+            $(this).text("+ Newsletter")
+        }
+    });
+
+    $(document).on("click", "input[name='selectAllNewsletter']", function() {
+        console.log("clicked");
+        var checkedStatus = this.checked;
+        $(".newsletter-checkboxes").find("input[type='checkbox']").prop("checked", checkedStatus);
+    });
+
+    $("#toggle-advance-export").click(function() {
+        var $i = $(this).children("i");
+        if ($i.hasClass("fa-angle-down")) {
+            $("#advance-csv-div").slideDown();
+            $i.removeClass("fa-angle-down").addClass("fa-angle-up");
+        } else {
+            $("#advance-csv-div").slideUp();
+            $i.removeClass("fa-angle-up").addClass("fa-angle-down");
+        }
+    });
     
+    $("#advance-csv-div .add-search-row").click(function() {
+        $("#clone-search-div .logic-row.row").clone().insertBefore($("#advance-csv-div .newsletter-rows"));
+        $("#advance-csv-div .default-row").first().clone().insertBefore($("#advance-csv-div .newsletter-rows"));
+        
+        if ($("#advance-csv-div .filter-row").length > 1) {
+            $("#advance-csv-div .remove-search-row").prop("disabled", false);
+        }
+        updateCSVButtons();
+    });
+
     $("#search-div .add-search-row").click(function() {
         $("#clone-search-div .row").clone().insertBefore($("#search-div .search-row"));
         if ($("#search-div .filter-row").length > 1) {
@@ -67,6 +107,26 @@ $(function() {
         }
         updateButtons();
     });
+
+    $("#advance-csv-div .remove-search-row").click(function() {
+        if ($("#advance-csv-div .filter-row").length > 1) {
+            $("#advance-csv-div .filter-row").last().remove();
+            $("#advance-csv-div .logic-row").last().remove();
+        }
+        if ($("#advance-csv-div .filter-row").length <= 1) {
+            $("#advance-csv-div .remove-search-row").prop("disabled", true);
+        }
+        var indent = 0;
+        if ($("#advance-csv-div .logic-row").length) {
+            indent = getIndent($("#advance-csv-div .logic-row").last());
+        }
+        var curInd = getIndent($("#advance-csv-div .filter-row").last());
+        if (curInd != indent) {
+            $("#advance-csv-div .filter-row").last().addClass("indent-" + indent).removeClass("indent-" + curInd);
+        }
+        updateCSVButtons();
+    });
+
     $("#search-div .remove-search-row").click(function() {
         if ($("#search-div .filter-row").length > 1) {
             $("#search-div .filter-row").last().remove();
@@ -164,9 +224,16 @@ $(function() {
         updateButtons();
     });
 
-    $("#search-div").on("change", "select[name='filter-field[]']", null, function() {
+    $("#search-div, #advance-csv-div").on("change", "select[name='filter-field[]']", null, function() {
         var options = search_selects[$(this).val().split(".").pop()];
+        var isMultiSelect = $(this).find("option:selected").data("multiselect");
         var select = $(this).parent().parent().find("select[name='compareValue[]']");
+        if(isMultiSelect) {
+            select.attr("name","compareValue[" + $(this).val() + "][]");
+            select.attr("multiple","multiple");
+        } else {
+            select.removeAttr("multiple");
+        }
         var selectCB = $(this).parent().parent().find("select[name='compareBy[]']");
         if (options || $(this).find("option:selected").is("[data-newsletter]")) {
             select.html("");
@@ -257,7 +324,6 @@ function initFields() {
             var compareBy = getURLParam("compareBy");
             var compareValues = getURLParam("compareValue");
             var indents = getURLParam("indentations");
-            console.log("search");
         } else if(storedFilters != null) {
             var filters = storedFilters["filter-field"];
             var operators = storedFilters["operator"];
@@ -347,6 +413,14 @@ function prepareShowAdminForm() {
 
 function updateButtons() {
     $("#search-div .logic-row").each(function(i, e) {
+        $e = $(e);
+        $e.find(".indent-btn-right").prop("disabled", !checkIndentPossible($e));
+        $e.find(".indent-btn-left").prop("disabled", getIndent(e) <= 0);
+    });
+}
+
+function updateCSVButtons() {
+    $("#advance-csv-div .logic-row").each(function(i, e) {
         $e = $(e);
         $e.find(".indent-btn-right").prop("disabled", !checkIndentPossible($e));
         $e.find(".indent-btn-left").prop("disabled", getIndent(e) <= 0);

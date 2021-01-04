@@ -11,6 +11,7 @@ if ($fp && $response["success"]) {
     header('Content-Disposition: attachment; filename="export.csv"');
     header('Pragma: no-cache');
     header('Expires: 0');
+    echo "\xEF\xBB\xBF"; // UTF-8 BOM
     fputs($fp, "\xEF\xBB\xBF");
     fputcsv($fp, $response["headers"]);
     if (isset($response["data"])) {
